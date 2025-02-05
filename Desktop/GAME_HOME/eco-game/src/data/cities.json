@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "name": "Omsk",
+        "population": 1172070,
+        "region": {
+            "id": 1,
+            "name": "Omsk Oblast"
+        },
+        "lat": 54.9885,
+        "lng": 73.3242
+    },
+    {
+        "id": 2,
+        "name": "Novosibirsk",
+        "population": 1620162,
+        "region": {
+            "id": 2,
+            "name": "Novosibirsk Oblast"
+        },
+        "lat": 55.0084,
+        "lng": 82.9357
+    },
+    {
+        "id": 3,
+        "name": "Kemerovo",
+        "population": 532884,
+        "region": {
+            "id": 3,
+            "name": "Kemerovo Oblast"
+        },
+        "lat": 55.3552,
+        "lng": 86.0869
+    },
+    {
+        "id": 4,
+        "name": "Tomsk",
+        "population": 573902,
+        "region": {
+            "id": 4,
+            "name": "Tomsk Oblast"
+        },
+        "lat": 56.4846,
+        "lng": 84.9476
+    },
+    {
+        "id": 5,
+        "name": "Barnaul",
+        "population": 612401,
+        "region": {
+            "id": 5,
+            "name": "Altai Krai"
+        },
+        "lat": 53.3606,
+        "lng": 83.7636
+    },
+    {
+        "id": 6,
+        "name": "Krasnoyarsk",
+        "population": 1083907,
+        "region": {
+            "id": 6,
+            "name": "Krasnoyarsk Krai"
+        },
+        "lat": 56.0106,
+        "lng": 92.8526
+    },
+    {
+        "id": 7,
+        "name": "Abakan",
+        "population": 186356,
+        "region": {
+            "id": 7,
+            "name": "Republic of Khakassia"
+        },
+        "lat": 53.7225,
+        "lng": 91.4431
+    },
+    {
+        "id": 8,
+        "name": "Kyzyl",
+        "population": 123628,
+        "region": {
+            "id": 8,
+            "name": "Republic of Tuva"
+        },
+        "lat": 51.7191,
+        "lng": 94.4370
+    },
+    {
+        "id": 9,
+        "name": "Irkutsk",
+        "population": 617515,
+        "region": {
+            "id": 9,
+            "name": "Irkutsk Oblast"
+        },
+        "lat": 52.2864,
+        "lng": 104.2807
+    },
+    {
+        "id": 10,
+        "name": "Ulan-Ude",
+        "population": 437565,
+        "region": {
+            "id": 10,
+            "name": "Republic of Buryatia"
+        },
+        "lat": 51.8345,
+        "lng": 107.5846
+    },
+    {
+        "id": 11,
+        "name": "Chita",
+        "population": 350675,
+        "region": {
+            "id": 11,
+            "name": "Zabaykalsky Krai"
+        },
+        "lat": 52.0340,
+        "lng": 113.5009
+    },
+    {
+        "id": 12,
+        "name": "Tyumen",
+        "population": 847488,
+        "region": {
+            "id": 12,
+            "name": "Tyumen Oblast"
+        },
+        "lat": 57.1522,
+        "lng": 65.5272
+    },
+    {
+        "id": 13,
+        "name": "Chelyabinsk",
+        "population": 1202371,
+        "region": {
+            "id": 13,
+            "name": "Chelyabinsk Oblast"
+        },
+        "lat": 55.1644,
+        "lng": 61.4368
+    },
+    {
+        "id": 14,
+        "name": "Yekaterinburg",
+        "population": 1493749,
+        "region": {
+            "id": 14,
+            "name": "Sverdlovsk Oblast"
+        },
+        "lat": 56.8389,
+        "lng": 60.6057
+    },
+    {
+        "id": 15,
+        "name": "Khanty-Mansiysk",
+        "population": 103707,
+        "region": {
+            "id": 15,
+            "name": "Khanty-Mansi Autonomous Okrug"
+        },
+        "lat": 61.0032,
+        "lng": 69.0182
+    },
+    {
+        "id": 16,
+        "name": "Salekhard",
+        "population": 49300,
+        "region": {
+            "id": 16,
+            "name": "Yamalo-Nenets Autonomous Okrug"
+        },
+        "lat": 66.5333,
+        "lng": 66.6333
+    }
+]

@@ -1,0 +1,334 @@
+{
+  "mines": [
+    {
+      "id": 1,
+      "name": "Шахта Распадская",
+      "resources": ["уголь"],
+      "production_volume": 10000000,
+      "coordinates": {
+        "latitude": 54.4167,
+        "longitude": 86.9333
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 2,
+      "name": "Шахта имени В.Д. Ялевского",
+      "resources": ["уголь"],
+      "production_volume": 5000000,
+      "coordinates": {
+        "latitude": 54.6500,
+        "longitude": 86.2833
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 3,
+      "name": "Шахта Комсомолец",
+      "resources": ["уголь"],
+      "production_volume": 4000000,
+      "coordinates": {
+        "latitude": 54.1167,
+        "longitude": 86.4833
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 4,
+      "name": "Шахта Алтайская",
+      "resources": ["уголь"],
+      "production_volume": 4000000,
+      "coordinates": {
+        "latitude": 54.7000,
+        "longitude": 86.2500
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 5,
+      "name": "Шахта Листвяжная",
+      "resources": ["уголь"],
+      "production_volume": 3000000,
+      "coordinates": {
+        "latitude": 54.4667,
+        "longitude": 86.3833
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 6,
+      "name": "Шахта Ольжерасская-Новая",
+      "resources": ["уголь"],
+      "production_volume": 3000000,
+      "coordinates": {
+        "latitude": 54.5500,
+        "longitude": 86.3167
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 7,
+      "name": "Шахта Полысаевская",
+      "resources": ["уголь"],
+      "production_volume": 2500000,
+      "coordinates": {
+        "latitude": 54.6000,
+        "longitude": 86.2833
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 8,
+      "name": "Шахта Зиминка",
+      "resources": ["уголь"],
+      "production_volume": 2000000,
+      "coordinates": {
+        "latitude": 54.1333,
+        "longitude": 86.4333
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 9,
+      "name": "Газовое месторождение Восточное",
+      "resources": ["газ"],
+      "production_volume": 6000000,
+      "coordinates": {
+        "latitude": 55.4167,
+        "longitude": 92.5000
+      },
+      "region": "Красноярский край"
+    },
+    {
+      "id": 10,
+      "name": "Никелевое месторождение Нижняя Тунгуска",
+      "resources": ["никель"],
+      "production_volume": 200000,
+      "coordinates": {
+        "latitude": 56.2500,
+        "longitude": 93.5000
+      },
+      "region": "Красноярский край"
+    },
+    {
+      "id": 11,
+      "name": "Медное месторождение Сибири",
+      "resources": ["медь"],
+      "production_volume": 150000,
+      "coordinates": {
+        "latitude": 55.8500,
+        "longitude": 93.0000
+      },
+      "region": "Челябинская область"
+    },
+    {
+      "id": 12,
+      "name": "Урановое месторождение Шалинское",
+      "resources": ["уран"],
+      "production_volume": 300000,
+      "coordinates": {
+        "latitude": 53.9333,
+        "longitude": 92.7000
+      },
+      "region": "Тюменская область"
+    },
+    {
+      "id": 13,
+      "name": "Шахта Тенькинская",
+      "resources": ["уголь"],
+      "production_volume": 7000000,
+      "coordinates": {
+        "latitude": 53.6000,
+        "longitude": 87.2000
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 14,
+      "name": "Месторождение золота Чукотки",
+      "resources": ["золото"],
+      "production_volume": 100000,
+      "coordinates": {
+        "latitude": 64.7500,
+        "longitude": 177.7000
+      },
+      "region": "Чукотский автономный округ"
+    },
+    {
+      "id": 15,
+      "name": "Шахта Черемшанская",
+      "resources": ["уголь"],
+      "production_volume": 5000000,
+      "coordinates": {
+        "latitude": 54.7500,
+        "longitude": 86.0500
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 16,
+      "name": "Месторождение золота Ямала",
+      "resources": ["золото"],
+      "production_volume": 120000,
+      "coordinates": {
+        "latitude": 65.0500,
+        "longitude": 82.5000
+      },
+      "region": "Ямало-Ненецкий автономный округ"
+    },
+    {
+      "id": 17,
+      "name": "Шахта Талдинская",
+      "resources": ["уголь"],
+      "production_volume": 3500000,
+      "coordinates": {
+        "latitude": 54.3333,
+        "longitude": 86.2500
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 18,
+      "name": "Шахта Караканская",
+      "resources": ["уголь"],
+      "production_volume": 2800000,
+      "coordinates": {
+        "latitude": 54.5167,
+        "longitude": 86.4667
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 19,
+      "name": "Месторождение железной руды Норильск",
+      "resources": ["железная руда"],
+      "production_volume": 6000000,
+      "coordinates": {
+        "latitude": 69.3000,
+        "longitude": 88.2000
+      },
+      "region": "Красноярский край"
+    },
+    {
+      "id": 20,
+      "name": "Алтайское медное месторождение",
+      "resources": ["медь"],
+      "production_volume": 500000,
+      "coordinates": {
+        "latitude": 53.2000,
+        "longitude": 86.5000
+      },
+      "region": "Алтайский край"
+    },
+    {
+      "id": 21,
+      "name": "Шахта Майкопская",
+      "resources": ["уголь"],
+      "production_volume": 6000000,
+      "coordinates": {
+        "latitude": 53.7500,
+        "longitude": 89.0000
+      },
+      "region": "Кемеровская область"
+    },
+    {
+      "id": 22,
+      "name": "Рудник Восточный",
+      "resources": ["песок", "гравий"],
+      "production_volume": 150000,
+      "coordinates": {
+        "latitude": 55.3000,
+        "longitude": 94.1000
+      },
+      "region": "Томская область"
+    },
+    {
+      "id": 23,
+      "name": "Газовое месторождение Братское",
+      "resources": ["газ"],
+      "production_volume": 3500000,
+      "coordinates": {
+        "latitude": 56.0000,
+        "longitude": 94.5000
+      },
+      "region": "Иркутская область"
+    },
+    {
+      "id": 24,
+      "name": "Горно-Обогатительный комбинат Черемшанский",
+      "resources": ["золото", "медь"],
+      "production_volume": 500000,
+      "coordinates": {
+        "latitude": 54.8000,
+        "longitude": 89.2000
+      },
+      "region": "Алтайский край"
+    },
+    {
+      "id": 25,
+      "name": "Горно-Обогатительный комбинат Красноярский",
+      "resources": ["уголь", "золото"],
+      "production_volume": 7000000,
+      "coordinates": {
+        "latitude": 55.9000,
+        "longitude": 93.8000
+      },
+      "region": "Красноярский край"
+    },
+    {
+      "id": 26,
+      "name": "Месторождение нефти Ненецкий автономный округ",
+      "resources": ["нефть"],
+      "production_volume": 2000000,
+      "coordinates": {
+        "latitude": 63.5000,
+        "longitude": 75.1000
+      },
+      "region": "Ненецкий автономный округ"
+    },
+    {
+      "id": 27,
+      "name": "Шахта Усинская",
+      "resources": ["уголь"],
+      "production_volume": 4500000,
+      "coordinates": {
+        "latitude": 58.7000,
+        "longitude": 91.2000
+      },
+      "region": "Удмуртская Республика"
+    },
+    {
+      "id": 28,
+      "name": "Рудник Сибири",
+      "resources": ["железная руда"],
+      "production_volume": 1200000,
+      "coordinates": {
+        "latitude": 56.7000,
+        "longitude": 88.3000
+      },
+      "region": "Красноярский край"
+    },
+    {
+      "id": 29,
+      "name": "Горно-Обогатительный комбинат Рудногорский",
+      "resources": ["медь", "песок"],
+      "production_volume": 400000,
+      "coordinates": {
+        "latitude": 53.5000,
+        "longitude": 92.6000
+      },
+      "region": "Свердловская область"
+    },
+    {
+      "id": 30,
+      "name": "Шахта Иркутская",
+      "resources": ["уголь"],
+      "production_volume": 6000000,
+      "coordinates": {
+        "latitude": 52.6500,
+        "longitude": 103.0000
+      },
+      "region": "Иркутская область"
+    }
+  ]
+}
